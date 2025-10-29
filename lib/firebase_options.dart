@@ -50,8 +50,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyC8EPpQnvCKUKZ24JWywEOCZdPRJq7D7vE',
-    appId: '1:702744939795:web:cc119545471824af085ee6',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '702744939795',
     projectId: 'newsapp-provider',
     authDomain: 'newsapp-provider.firebaseapp.com',
@@ -60,8 +60,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDTG7K4R-aHe18ORFXP8IdshjkytNAyLW0',
-    appId: '1:702744939795:android:2eec15c2a72e2cc6085ee6',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '702744939795',
     projectId: 'newsapp-provider',
     storageBucket: 'newsapp-provider.firebasestorage.app',
